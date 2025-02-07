@@ -58,8 +58,3 @@ Atualmente, meu foco está no desenvolvimento Fullstack e Mobile, explorando nov
 </div>
 
 
-
-
-
-
-          
